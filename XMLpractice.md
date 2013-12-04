@@ -3,7 +3,7 @@ bearded-ninja
 
 Practice with XML sheets
 
-*STORES THE DATA*
+//STORES THE DATA
 
 using System;
 using System.Collections.Generic;
@@ -164,7 +164,7 @@ public partial class NewHire_NewHireBenefits : System.Web.UI.Page
 
 
 
-*DISPLAYS DATA*
+//DISPLAYS DATA
 
 
 using System;
